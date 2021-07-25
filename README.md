@@ -1,6 +1,6 @@
 # x230
 
-My x230 coreboot rom.
+#My x230 coreboot rom.
 
 Based on Skulls non-free rom.
 
